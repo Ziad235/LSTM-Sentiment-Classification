@@ -1,4 +1,4 @@
-# LSTM Sentiment Classification
+# LSTM Sentiment Classifier
 
 This Python Neural Network program was a part of a group project, where I was in charge of training and testing a sentiment classifer based on an LSTM Model.
 
